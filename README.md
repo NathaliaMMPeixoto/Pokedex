@@ -6,7 +6,7 @@ Minha maior dificultade foi para consumir dados do API através da importação 
 
 Minha segunda maior dificuldade na criação das páginas, em Pokedex.js. Para a criação da mesma tive que fazer consultas em projetos semelhantes.
 
-Em ArrowSvg.js utilizei estilizei flechas para fazer as mudanças de páginas.
+Em ArrowSvg.js utilizei e estilizei flechas para fazer as mudanças de páginas.
 
 No Footer.js coloquei a autoria do projeto.
 
